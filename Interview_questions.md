@@ -48,6 +48,7 @@ So feeling relaxed and excited for today's interview.
 * I am feeling very excited today. Had a good breakfast and reached your office on time.
 
 2. How is object-oriented programming different from functional programming? What are some advantages or disadvantages of each?
+
 **Functional programming:**
 
 * A style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
@@ -80,7 +81,7 @@ https://alvinalexander.com/scala/fp-book/disadvantages-of-functional-programming
 * Since everything is treated as objects, so we can model a real-world concept using OOP.
 * OOP approach offers the reusability of classes.
 
-**Disadvantage:*
+*Disadvantage:*
 * Sometimes, the relation among the classes become artificial in nature.
 * The programmer should have a proper planning before designing a program using OOP approach.
 
