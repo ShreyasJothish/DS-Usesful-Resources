@@ -41,9 +41,51 @@ Can you find an example where the chart or other data visualization is misrepres
 7. How do you keep up with economic and
   business news? How about data science news?
   
-### week 11:
+### Week 11:
 1. How are you today?
+* I am feeling great today. Had a very good sleep yesterday. 
+So feeling relaxed and excited for today's interview.
+* I am feeling very excited today. Had a good breakfast and reached your office on time.
+
 2. How is object-oriented programming different from functional programming? What are some advantages or disadvantages of each?
+**Functional programming:**
+
+* A style of building the structure and elements of computer programs—that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data.
+* It is a declarative programming paradigm, which means programming is done with expressions or declarations instead of statements.
+* Functional code is idempotent, the output value of a function depends only on the arguments that are passed to the function, 
+so calling a function f twice with the same value for an argument x produces the same result f(x) each time.
+
+*Advantage:*
+* Testing and Debugging is easier.
+* Programs are more bulletproof.
+* Parallel/concurrent programming is easier.
+
+https://alvinalexander.com/scala/fp-book/benefits-of-functional-programming
+
+*Disadvantage:*
+* Writing pure functions is easy, but combining them into a complete application is where things get hard.
+* The advanced math terminology (monad, monoid, functor, etc.) makes FP intimidating.
+* For many people, recursion doesn’t feel natural.
+
+https://alvinalexander.com/scala/fp-book/disadvantages-of-functional-programming
+
+**Object oriented programming:**
+
+* Based on the concept of "objects", which can contain data (attributes), and code (procedures). 
+* Usually object's procedures that can access and often modify the data fields of the object with which they are associated.
+* Programs are designed by making them out of objects that interact with one another.
+
+*Advantage:*
+* The programmes written with OOP are really easy to understand.
+* Since everything is treated as objects, so we can model a real-world concept using OOP.
+* OOP approach offers the reusability of classes.
+
+**Disadvantage:*
+* Sometimes, the relation among the classes become artificial in nature.
+* The programmer should have a proper planning before designing a program using OOP approach.
+
+https://www.csetutor.com/advantages-and-disadvantages-of-object-oriented-programming-language/
+
 3. What is the relationship between modules, packages, dependencies, and namespaces in Python?
 4.  What are some differences between Bayesian statistics and frequentist statistics? When might you use one over the other?
 5.  How does a confusion matrix help you understand your model better?
